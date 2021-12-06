@@ -1,0 +1,40 @@
+.header_div
+  {
+  background: #95A3A4;
+  color: white; 
+  }
+
+  body{
+    font-family: 'Raleway', sans-serif;     background: #E2E8DD;
+}
+
+
+.header_div p{
+    font-family: 'Roboto',sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    color: darkorchid;
+    text-shadow: 5px 5px 10px darkorchid;
+    font-size: 18px;
+    line-height: 3;
+}
